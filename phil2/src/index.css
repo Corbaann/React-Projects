@@ -1,0 +1,11 @@
+.Student{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: medium;
+ border: 2px  solid black; 
+  margin: 2%;
+  padding: 1%;
+  width: 100px;
+}
+.Srudent p{
+  margin: 0%;
+}
