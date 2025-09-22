@@ -1,0 +1,16 @@
+.h2a{
+  color: aqua;
+  font-size: 40px;
+  border-color: black;
+  border-radius: 20%;
+  background-color: blue;
+  max-width: 200px;
+}
+.h2b{
+  color: red;
+  font-size: 40px;
+  border-color: black;
+  border-radius: 20%;
+  background-color: yellow;
+  max-width: 200px;
+}
